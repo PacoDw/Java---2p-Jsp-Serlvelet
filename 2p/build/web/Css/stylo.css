@@ -1,0 +1,62 @@
+body{
+    margin: 100px 0 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+h1{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 1.5rem 1.5rem 1.5rem 1rem;
+    color:white;
+    background-color: #398EB8;
+    border-bottom: 1px solid grey;
+}
+
+form, div, p{
+    padding: 0 0 1rem 1rem;
+    margin: 0;
+}
+
+div{
+    border-bottom: 1px solid graytext;
+}
+
+code{
+    margin: .5rem;
+}
+
+table{
+    overflow-x: auto;
+    /*border: 1px solid blue;*/
+    width: 100%;
+    border-collapse: separate; /*collapse para unir los bordes de las celdas*/
+    /*border-spacing: .7rem;
+    oculta las celdas vacias, siempre y cuando este activado separate*/
+    /*empty-cells: hide;*/
+    /*caption-side: bottom;*/
+}
+td{
+    /*border: 1px solid black;*/
+    text-align: center;
+    padding	: .1em .5em;
+    font-weight: 900;
+}
+
+#div-table{
+    width: 200px;
+}
+
+#par{
+    font-weight: 900;
+    font-size: 15px;
+}
+
+li{
+    margin: 10px 0;
+    font-size: 1rem;
+    font-weight: 700;
+}
