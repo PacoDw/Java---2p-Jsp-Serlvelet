@@ -68,9 +68,7 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("        \n");
       out.write("        <ol>\n");
       out.write("            <li><a href=\"Factorial.jsp\">Número Factorial</a></li>\n");
-      out.write("            <li><a href=\"tablax.html\">Tabla X</a></li>\n");
-      out.write("            <li><a href=\"trianguloPascal.html\">Triangulo Pascal</a></li>\n");
-      out.write("            <li><a href=\"trianguloPascalLinea.html\">Triangulo Pascal por linea</a></li>-->\n");
+      out.write("            <li><a href=\"Sucesiones.jsp\">Sucesiones</a></li>\n");
       out.write("        </oll> \n");
       out.write("    </body>\n");
       out.write("</html>\n");
